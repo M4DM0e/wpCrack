@@ -13,7 +13,7 @@ version 1.0
 <hr>
 <h2>Contact : </h2>
 <ul>
-<li>Twitter : @MrSqar</li>
-<li>Send to my <a href="mailto:mrsqar@gmail.com">email</a></li>
+<li>Twitter : @M4DM0E</li>
+<li>Send to my <a href="mailto:moe@grodriket.com">email</a></li>
 </ul>
 <br>
